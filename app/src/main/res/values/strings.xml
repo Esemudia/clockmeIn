@@ -14,4 +14,6 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="confirm">Confirm</string>
+    <string name="cloc">Clockme.</string>
+    <string name="todo">TODO</string>
 </resources>

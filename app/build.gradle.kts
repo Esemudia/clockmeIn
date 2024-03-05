@@ -32,6 +32,11 @@ android {
 }
 
 dependencies {
+
+    implementation("io.github.chaosleung:pinview:1.4.4")
+    implementation ("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation ("com.squareup.retrofit2:converter-gson:2.7.2")
+    implementation ("com.squareup.okhttp3:okhttp:3.14.9")
     implementation ("com.google.android.gms:play-services-vision:20.1.3")
     implementation ("androidx.camera:camera-camera2:1.1.0-alpha02")
     implementation ("androidx.camera:camera-lifecycle:1.1.0-alpha02")
