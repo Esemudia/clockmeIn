@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Clockme-In</string>
+    <string name="clockmein">clockmeIn.</string>
+    <string name="get_started">Get Started</string>
+    <string name="track_your_time_with_ease">Track Your Time with Ease</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="user_name">Ryan More</string>
+    <string name="clockme">clockmein</string>
+    <string name="title_activity_pin">Pin</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="confirm">Confirm</string>
+</resources>
